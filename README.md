@@ -66,6 +66,3 @@ Key findings from experimentation:
 3. Model trains for 20 epochs by default
 4. Adjust hyperparameters in the config section
 5. Visualizations generate automatically
-
-## License
-[MIT License](https://opensource.org/licenses/MIT) - Use and modify freely with attribution﻿# RNN-Name-Classification
